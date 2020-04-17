@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:d:\code blocks\data structure and algorithms\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1587059718 source:d:\code blocks\data structure and algorithms\bst.c
+	<stdio.h>
+	<stdlib.h>
+
